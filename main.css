@@ -113,3 +113,10 @@ section h2 {
 #movies .articles article a {
     background-color: rgb(255, 0, 0);
 }
+#fitness {
+    background-color: #b0e9ff;
+}
+
+#fitness .articles article a {
+    background-color: blue(255, 0, 0);
+}
